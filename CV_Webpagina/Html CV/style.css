@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(192, 181, 150);
+}
+
+h1, h2 {
+  padding-left: 20px;
+  color: rgb(74, 65, 47);
+}
+
+.info {
+ padding-left: 20px;
+}
+
+.inhoud {
+  width: 300px;
+  height: 550px;
+  padding: 40px;
+  border: 3px solid rgb(201, 141, 45);
+  border-radius: 10px;
+}
+
+p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#eigenschappen {
+  color: rgb(74, 65, 47);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.inhoud { 
+  text-align: center; 
+}
+
+ul.eigenschappen > li {
+  margin: 1px;
+}
