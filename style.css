@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(192, 181, 150);
+}
+.info {
+  padding-left: 80px;
+ }
+ h1 {
+  padding-left: 80px;
+ }
+p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.inhoud {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-content: center;
+}
+.h2 {
+  display: flex; 
+  justify-content: space-around;
+}
+
