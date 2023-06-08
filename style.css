@@ -2,7 +2,10 @@ body {
   background-color: rgb(192, 181, 150);
 }
 .info {
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
   padding-left: 80px;
+  grid-column: 2;
  }
  h1 {
   padding-left: 80px;
@@ -20,4 +23,3 @@ p {
   display: flex; 
   justify-content: space-around;
 }
-
